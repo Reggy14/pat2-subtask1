@@ -1,10 +1,6 @@
 # pat2-subtask1
 # Morse Code Research Project
 
-This repository (pat2-subtask1) contains research on Morse code as part of Practical Assessment Task 2 (Subtask 1). Below is a comprehensive overview of Morse code, its history, mechanical workings, and examples of translated words.
-
----
-
 ## 1. Overview of Morse Code
 Morse code is a method of transmitting text information as a series of on-off tones, lights, or clicks. Each character (letter, numeral, or punctuation mark) is represented by a unique sequence of short and long signals, commonly referred to as *dots* and *dashes*. Because it relies on simple binary signaling (signal present vs. signal absent), it can easily be transmitted over primitive electrical wires, radio waves, or even visual flashes of light.
 
