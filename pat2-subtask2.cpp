@@ -1,4 +1,5 @@
-
+// Sub-task 2: C++ Program for Morse Code Translation
+// Translates English text input into Morse code
 #include <iostream>
 #include <string>
 #include <cctype>
