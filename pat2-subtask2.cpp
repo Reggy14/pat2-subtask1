@@ -51,9 +51,11 @@ int main()
             }
         }
     }
-
+    
     cout << "\nFull Morse Code:" << endl;
     cout << fullMorse << endl;
 
+    cout << "Translation complete." << endl;
     return 0;
 }
+    
