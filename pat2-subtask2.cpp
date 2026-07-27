@@ -25,6 +25,11 @@ int main()
 
     cout << "Enter a message: ";
     getline(cin, message);
+    if (message.empty())
+    {
+        cout << "No text was entered." << endl;
+        return 0;
+    }
 
     for (char ch : message)
     {
